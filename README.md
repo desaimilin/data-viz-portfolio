@@ -15,3 +15,7 @@ You can check out my all documents for various data visualisation plots. You wil
 - Geographic visualisation of food service using tableau
 - Chicago Crashes Geographical Graph
 - Portland Water Level dataset using R
+
+* Solar Radiation :
+- Analysing test results
+- Solar radiation visualisation using R and tableau
