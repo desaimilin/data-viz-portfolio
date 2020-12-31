@@ -3,7 +3,7 @@ You can check out my all documents for various data visualisation plots. You wil
 
 
 * portfolio-1 : <br />
-<br />
+
 - Visual encoding
 - webber's law
 - Intel stocks of 1998 visualisation using tableau 
