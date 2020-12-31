@@ -1,0 +1,20 @@
+R – Code:
+
+date = mdy(portland$Date)
+
+plot <- ggplot(portland, aes(x=date, y=WL)) + geom_line() + xlab("Date ")+
+ylab("Water level") +
+ggtitle("Water level Mesurment by dates and months")+ theme(
+axis.title.x = element_text(color = "Blue", size = 8, face="bold"), axis.text.x = element_text(color = "Blue"),
+axis.title.y = element_text(color = "Black", size = 8, face="bold"),
+axis.text.y = element_text(color = "Blue"),
+plot.title = element_text(color = "Blue", size = 12, face="bold") )
+
+
+plot_ma <- plot + geom_ma(ma_fun=SMA, n=360, size=1, color="red")+ xlab("Date ")+
+ylab("Water level") +
+ggtitle("Water level Mesurment by dates and months")+ theme(
+axis.title.x = element_text(color = "Blue", size = 8, face="bold"), axis.text.x = element_text(color = "Blue"),
+axis.title.y = element_text(color = "Black", size = 8, face="bold"), axis.text.y = element_text(color = "Blue"),
+plot.title = element_text(color = "Blue", size = 12, face="bold") )
+plot_ma
