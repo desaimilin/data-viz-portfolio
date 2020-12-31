@@ -4,12 +4,12 @@ You can check out my all documents for various data visualisation plots. You wil
 
 * portfolio-1 : <br />
 
-- Visual encoding
-- webber's law
-- Intel stocks of 1998 visualisation using tableau 
-- Interactive Cars Data Viz
-- Bubble plot for dominant car company
-- Companies data plan visualisation using R
+- Visual encoding<br />
+- webber's law<br />
+- Intel stocks of 1998 visualisation using tableau <br />
+- Interactive Cars Data Viz<br />
+- Bubble plot for dominant car company<br />
+- Companies data plan visualisation using R<br />
 
 
 * Tableau in action 
