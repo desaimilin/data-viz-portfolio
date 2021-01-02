@@ -24,5 +24,9 @@ You can check out my all documents for various data visualisation plots. You wil
 
 * Solar Radiation :
 
+
+
+
+
 - Analysing test results
 - Solar radiation visualisation using R and tableau
