@@ -6,7 +6,7 @@ You can check out my all documents for various data visualisation plots. You wil
 
 : 
 
-- Visual encoding
+- Visual encoding(<-- two spaces)
 - webber's law
 - Intel stocks of 1998 visualisation using tableau
 - Interactive Cars Data Viz
