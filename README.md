@@ -3,9 +3,8 @@ You can check out my all documents for various data visualisation plots. You wil
 
 
 * portfolio-1 
+
 : 
-
-
 
 - Visual encoding
 - webber's law
@@ -16,12 +15,15 @@ You can check out my all documents for various data visualisation plots. You wil
 
 
 * Tableau in action 
+
 :
+
 - Geographic visualisation of food service using tableau
 - Chicago Crashes Geographical Graph
 - Portland Water Level dataset using R
 
 * Solar Radiation 
+
 :
 
 - Analysing test results
