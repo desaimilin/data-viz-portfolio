@@ -13,6 +13,8 @@ You can check out my all documents for various data visualisation plots. You wil
 - Bubble plot for dominant car company
 - Companies data plan visualisation using R
 
+:
+
 
 * Tableau in action 
 
@@ -22,9 +24,13 @@ You can check out my all documents for various data visualisation plots. You wil
 - Chicago Crashes Geographical Graph
 - Portland Water Level dataset using R
 
+:
+
 * Solar Radiation 
 
 :
 
 - Analysing test results
 - Solar radiation visualisation using R and tableau
+
+:
